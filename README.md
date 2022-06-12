@@ -1,6 +1,6 @@
 ### GitHub page of findsaid
 
-- My [website](https://findsaid.github.io/)
+My [website](https://findsaid.github.io/)
 
 💼 Last projects:
 - [Web Tools](https://web-tools-findsaid.netlify.app/)
