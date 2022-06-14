@@ -1,6 +1,6 @@
 ### GitHub page of findsaid
 
-My [website](https://findsaid.github.io/)
+My [webpage](https://findsaid.github.io/)
 
 💼 Last projects:
 - [Electronics Helper](https://electronics-helper.netlify.app/)
