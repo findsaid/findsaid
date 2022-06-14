@@ -1,4 +1,4 @@
-### GitHub page of findsaid
+### GitHub page of [findsaid](https://github.com/findsaid/)
 
 My [webpage](https://findsaid.github.io/)
 
